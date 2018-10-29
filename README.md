@@ -21,4 +21,4 @@
 3. https://www.railstutorial.org/book - Build it to and extend it. A simple
    twitter app.
 4. https://guides.rubyonrails.org/getting_started.html - The foundation.
-
+5. https://pragprog.com/book/rails5/agile-web-development-with-rails-5 - The book.
