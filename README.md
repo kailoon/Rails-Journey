@@ -14,6 +14,7 @@
 6. https://www.learnrubyonline.org/ - The foundation.
 7. https://www.ruby-lang.org/en/documentation/quickstart/ - The foundation.
 8. https://exercism.io/ - Practice with mentors.
+9. https://www.codewithjason.com/ - "I Know I Should Be Writing Tests But I Don’t Know How To Start"
 
 ### Rails
 1. http://www.pragtob.info/rails-beginner-cheatsheet/#ruby - The cheat sheet.
